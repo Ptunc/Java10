@@ -51,6 +51,6 @@ public class java10 {
 
     ort = (fizik + matematik + turkce + muzik + kimya) / top;
     System.out.println("ortalama: " + ort);
-    
+    input.close();
     }
 }
